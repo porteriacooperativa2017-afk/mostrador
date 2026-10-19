@@ -1,0 +1,7 @@
+node_modules/
+.env
+.env.*
+!.env.example
+vales-data.json
+vales-data.json.tmp
+npm-debug.log*
